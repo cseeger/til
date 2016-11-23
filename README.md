@@ -18,3 +18,4 @@ a variety of languages and technologies.
 
 - [String formatting with String#%](ruby/string-format-with-modulo.md)
 - [Rspec: set the request subdomain](ruby/rspec-set-subdomain.md)
+- [`FactoryGirl` in the console](ruby/factory-girl-console.md)

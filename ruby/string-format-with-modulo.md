@@ -1,4 +1,4 @@
-# String formatting with modulo
+# String formatting with `%`
 
 Ruby let's you format (or even substitute) string values with String#%. Passing
 in args has to be the coolest feature.

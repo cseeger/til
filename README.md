@@ -10,9 +10,14 @@ a variety of languages and technologies.
 
 ### Categories
 
+* [Git](#git)
 * [Ruby](#ruby)
 
 ---
+
+### Git
+
+- [Empty commits](git/empty-commits.md)
 
 ### Ruby
 

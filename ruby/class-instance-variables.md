@@ -1,5 +1,7 @@
 # Class Instance Variable
 
+Demonstrate the use of Class Instance Variables over Class Variables. 
+
 ```ruby
 class Timer
   @current_time = Time.new

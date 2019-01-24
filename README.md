@@ -23,7 +23,7 @@ a variety of languages and technologies. (Consider this an ongoing WIP)
 
 - [String formatting with `%`](ruby/string-format-with-modulo.md)
 - [Rspec: set the request subdomain](ruby/rspec-set-subdomain.md)
-- [Use `FactoryGirl` in the console](ruby/factory-girl-console.md)
+- [Use `FactoryBot` in the console](ruby/factory-bot-console.md)
 - [ActiveRecord and `DATABASE_URL`](ruby/ar-database-url.md)
 - [Running a rake task in `rails console`](ruby/rake-task-rails-console.md)
 - [Class Instance Variables](ruby/class-instance-variables.md)

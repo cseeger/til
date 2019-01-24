@@ -1,9 +1,9 @@
-# Use `FactoryGirl` in the console
+# Use `FactoryBot` in the console
 
 I often find debugging easier with my spec factories. 
 
 ```ruby
-require 'factory_girl'
-FactoryGirl.find_definitions
-user = FactoryGirl.create(:user)
+require 'factory_bot'
+FactoryBot.find_definitions
+user = FactoryBot.create(:user)
 ```

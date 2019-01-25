@@ -18,6 +18,7 @@ a variety of languages and technologies. (Consider this an ongoing WIP)
 ### Git
 
 - [Empty commits](git/empty-commits.md)
+- [Global Git Ignore](git/global-gitignore.md)
 
 ### Ruby
 

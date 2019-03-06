@@ -12,6 +12,7 @@ a variety of languages and technologies. (Consider this an ongoing WIP)
 
 * [Git](#git)
 * [Ruby](#ruby)
+* [Vim](#vim)
 
 ---
 
@@ -28,3 +29,7 @@ a variety of languages and technologies. (Consider this an ongoing WIP)
 - [ActiveRecord and `DATABASE_URL`](ruby/ar-database-url.md)
 - [Running a rake task in `rails console`](ruby/rake-task-rails-console.md)
 - [Class Instance Variables](ruby/class-instance-variables.md)
+
+### Vim
+
+- [Vim yank filename](vim/yank-filename.md)
